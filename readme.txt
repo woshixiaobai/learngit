@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 添加一段话
 Creating a new branch is quick and simple.
 bbb
+我是小白
